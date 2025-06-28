@@ -551,7 +551,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 3rem 0; opacity: 0.6;">
         <p style="font-size: 1.1rem; font-weight: 600;">🤖 Multi-Agent AI Helpdesk System</p>
-        <p style="color: #00C7B7;">Powered by IBM Granite • Built for Hackathon 2024</p>
+        <p style="color: #00C7B7;">Powered by IBM Granite</p>
     </div>
     """, unsafe_allow_html=True)
     
